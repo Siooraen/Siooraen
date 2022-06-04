@@ -10,8 +10,9 @@
 ***
 
 ### 这是我的数据
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Siooraen&bg_color=50,cbbc9b,459cc9&include_all_commits=true&count_private=true&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Siooraen&bg_color=50,cbbc9b,459cc9&include_all_commits=true&count_private=true&show_icons=true&locale=cn)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siooraen&layout=compact&bg_color=50,cbbc9b,459cc9&locale=cn)
 ***
 
 ### 写的小插件
