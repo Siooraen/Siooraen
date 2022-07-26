@@ -18,4 +18,4 @@
 ***
 
 ### 写的小插件
-[![LootPot](https://github-readme-stats.vercel.app/api/pin/?username=Siooraen&repo=LootPot)](https://github.com/inrhor/QuestEngine)
+[![LootPot](https://github-readme-stats.vercel.app/api/pin/?username=Siooraen&repo=LootPot)](https://github.com/Siooraen/LootPot)
