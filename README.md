@@ -1,21 +1,24 @@
-### 初来乍到，多多指教 👋
+### 🎉 Ciao!
 
-***
+My name is Siooraen and I'm an amateurish developer coding just for fun.
 
-### I'm Siooraen
-- 🎮 热爱玩游戏，尤其热爱Minecraft
-- 💻 热爱编程，最爱Kotlin
-- 🧑‍🎓 是初中生
-- 📮 邮箱：d1878279298@outlook.com
+**Kotlin** and **C++** are my favorite programming languages.
 
-***
+I like developing Minecraft Bukkit plugins with Kotlin.
 
-### 这是我的数据
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Siooraen&bg_color=50,cbbc9b,459cc9&include_all_commits=true&count_private=true&show_icons=true&locale=cn)
+I'm also a junior middle school student from Shandong, China.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siooraen&layout=compact&bg_color=50,cbbc9b,459cc9&locale=cn)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Siooraen&bg_color=50,cbbc9b,459cc9&include_all_commits=true&count_private=true&show_icons=true&locale=en)
 
-***
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siooraen&layout=compact&bg_color=50,cbbc9b,459cc9&locale=en)
 
-### 写的小插件
-[![LootPot](https://github-readme-stats.vercel.app/api/pin/?username=Siooraen&repo=LootPot)](https://github.com/Siooraen/LootPot)
+### 🛠️ Skills
+
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,cpp,md,git,idea,vscode,ps)](https://skillicons.dev)
+
+### 📫 Contact
+
+- Twitter: [@Siooraen](https://twitter.com/Siooraen)
+- Discord: Siooraen#4417
+- QQ: 1665631122
+- Email: d1878279298@outlook.com
