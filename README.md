@@ -1,12 +1,14 @@
 # 🎉 Ciao!
 
-My name is Siooraen and I'm an amateurish developer coding just for fun.
+My name is **Siooraen** and I'm a noob developer just for fun.
 
-**Kotlin** and **C++** are my favorite programming languages.
+I like developing **Minecraft Bukkit plugins** with **Kotlin**.
 
-I like developing Minecraft Bukkit plugins with Kotlin.
+I also like playing **FPS** and **RPG** games.
 
-I'm also a junior middle school student from Shandong, China.
+Currently, I'm a junior middle school **student** from **Shandong, China**.
+
+### 📖 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Siooraen&bg_color=50,cbbc9b,459cc9&include_all_commits=true&count_private=true&show_icons=true&locale=en)
 
