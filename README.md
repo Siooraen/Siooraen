@@ -6,7 +6,7 @@ I like developing **Minecraft Bukkit plugins** with **Kotlin**.
 
 I also like playing **FPS** and **RPG** games.
 
-Currently, I'm a junior middle school **student** from **Shandong, China**.
+Currently, I'm a senior middle school **student** from **Shandong, China**.
 
 ### 📖 Stats
 
